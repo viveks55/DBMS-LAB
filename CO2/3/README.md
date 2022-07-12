@@ -1,4 +1,4 @@
-3. Perform the following queries on two tables.
+3. Perform the following queries on two tables.\n
 a. Display students who belong to 'MCA department.
 b. Update the salary of all staff by 10% whose designation is 'Associate Professor'.
 C. Display all empioyees whose city is same as their company they work.
